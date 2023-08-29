@@ -115,7 +115,7 @@ console.log(countLetters("hello")); // Example: Output should be 5
 // Write the function in a way that it returns true if 'str' is a palindrome, otherwise false.
 function isPalindrome(str) {
   // Your code here
-  const reversed = "add here the code to reverse the string";
+
   return str === reversed;
 }
 console.log(isPalindrome("racecar")); // Example: Output should be true
