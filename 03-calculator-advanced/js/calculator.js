@@ -34,7 +34,7 @@ function getInput(id) {
   return document.getElementById(id);
 }
 
-var operator = "+";
+let operator = "+";
 
 function setOperator(newOperator) {
   switch (newOperator) {
@@ -77,7 +77,7 @@ function resetCalc() {
   operator = "+";
 }
 
-function clacExec(e) {
+function clacExec() {
   const inputA = getInput("newNumber");
   const inputB = getInput("result");
 
