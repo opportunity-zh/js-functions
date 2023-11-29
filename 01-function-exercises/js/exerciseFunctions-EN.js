@@ -93,7 +93,7 @@ console.log("Double: ", doubleCount(5)); // Example: Output should be 10
 
 //----------------------------------
 
-// Exercise 9: Create a function named 'getInput' that takes a parameter 'id'.
+// Exercise 9: Create a function named 'getById' that takes a parameter 'id'.
 // Write the function in a way that it returns the HTML element with the specified 'id'
 // using the 'getElementById()' method.
 

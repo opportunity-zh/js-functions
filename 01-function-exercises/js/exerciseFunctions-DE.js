@@ -93,7 +93,7 @@ console.log("Doppeltes: ", doubleCount(5)); // Beispiel: Ausgabe sollte 10 sein
 
 //----------------------------------
 
-// Übung 9: Erstelle eine Funktion namens 'getInput', die einen Parameter 'id' nimmt.
+// Übung 9: Erstelle eine Funktion namens 'getById', die einen Parameter 'id' nimmt.
 // Schreibe die Funktion so, dass sie das HTML-Element mit der angegebenen 'id'
 // mittels der 'getElementById()'-Methode zurückgibt.
 
