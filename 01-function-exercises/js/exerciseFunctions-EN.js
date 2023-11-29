@@ -97,6 +97,8 @@ console.log("Double: ", doubleCount(5)); // Example: Output should be 10
 // Write the function in a way that it returns the HTML element with the specified 'id'
 // using the 'getElementById()' method.
 
+// This exercise must be done in the browser console, because it requires access to HTML-elements.
+
 function getById(id) {
   // Your code here
   return;
